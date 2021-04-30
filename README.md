@@ -3,14 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=ZhenyaChmak)
 <br />
 
-
 ### Connect with me:
 
 [<img align="left" alt="ZhenyaChmak | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][Linkedin]
 [<img align="left" alt="ZhenyaChmak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>][Instagram]
-
-
-<br />
 
 ### Languages and Tools:
 
@@ -24,13 +20,14 @@
 <br />
 
 <details>
-    <summary>:zap: Statistics:</summary>
-    <img align="left" alt="code Git Hub Stats" src="https://github-readme-stats.vercel.app/api?username=ZhenyaChmak&show_icons=true&theme=радикальный" />
-    <br />
-    <img align="left" alt="code Git Hub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenyaChmak&layout=compact" />
+    <summary>:zap: GitHub Stats Card:</summary>
+    <img align="left" alt="code Git Hub Stats" src="https://github-readme-stats.vercel.app/api?username=ZhenyaChmak&show_icons=true&theme=radical&include_all_commits=true" />
 </details>
 
-
+<details>
+  <summary>:zap: Top Languages Card:</summary>
+    <img align="left" alt="code Git Hub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenyaChmak&layout=compact&theme=radical" />
+</details>
 
 [Linkedin]: https://www.linkedin.com/feed/
 [Instagram]: 
