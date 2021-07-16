@@ -33,7 +33,7 @@
 
 <details>
   <summary>:zap: Top Languages Card:</summary>
-    <img align="left"  alt="code Git Hub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenyaChmak&layout=compact&theme=radical" />
+    <img align="left"  alt="code Git Hub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhenyaChmak&layout=compact&theme=radical"  />
 </details>
 
 [Linkedin]: https://www.linkedin.com/feed/
